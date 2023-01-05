@@ -1,0 +1,15 @@
+.ht{
+  text-align: center;
+  padding: 7px;
+}
+
+.border{
+  color: rgb(29, 5, 5);
+  background-color:#4ab78da8;
+  border:none;
+  border-radius: 5px;
+}
+
+h1{
+  color: #1a885ef3;
+}
